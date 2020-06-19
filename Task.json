@@ -1,0 +1,143 @@
+/* 1 */
+{
+    "_id" : ObjectId("5ee75c17b145fefa40b3e7c6"),
+    "bookName" : "Computer Fundamentals and Programming in C",
+    "authorName" : "Reema Thareja",
+    "bookPrice" : "495",
+    "noOfBookSoid" : 1,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5ee75d5ab145fefa40b4224e"),
+    "bookName" : "Fundamentals of Computer Science Engineering for RGPV (II-CSE 2015 course)",
+    "authorName" : "A. P. Godse, A. A. Puntambekar, I. A. Dhotre",
+    "bookPrice" : "225",
+    "noOfBookSoid" : 2,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5ee75d65b145fefa40b42468"),
+    "bookName" : "Computer Networks for ANNA University (IV-CSE, V-IT- 2013 course)",
+    "authorName" : "I.A.Dhotre V.S.Bagad",
+    "bookPrice" : "299",
+    "noOfBookSoid" : 1,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5ee75d79b145fefa40b427e3"),
+    "bookName" : "Object-Oriented Analysis and Design (B.Tech (III Year II Semester CSE & IT) & M.Tech Kakinada II Sem – CSE)",
+    "authorName" : "Siddharth Santosh",
+    "bookPrice" : "270",
+    "noOfBookSoid" : 3,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5ee75d87b145fefa40b4299a"),
+    "bookName" : "Parallel Computing: Accelerating Computational Science and Engineering (CSE) (Advances in Parallel Computing)",
+    "authorName" : "M. Bader and A. Bode",
+    "bookPrice" : "8,924",
+    "noOfBookSoid" : 3,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5ee75d99b145fefa40b42bdf"),
+    "bookName" : "The Network Designer’s Handbook: 51 CSE (Concurrent Systems Engineering Series)",
+    "authorName" : "A.M. Jones",
+    "bookPrice" : "6,245",
+    "noOfBookSoid" : 4,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5ee75daab145fefa40b42e67"),
+    "bookName" : "Parallel Programming and Applications: 45 CSE (Transputer & Occam Engineering)",
+    "authorName" : "Peter A. Fritzson and L. Finmo",
+    "bookPrice" : "6,950",
+    "noOfBookSoid" : 2,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5ee75dbab145fefa40b4311a"),
+    "bookName" : "Formal Methods and Software Development. Proceedings of the International Joint Conference on Theory and Practice of Software Development (TAPSOFT), … (CSE) (Lecture Notes in Computer, Science)",
+    "authorName" : "Maurice Nivat and Hartmut Ehrig",
+    "bookPrice" : "546",
+    "noOfBookSoid" : 1,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5ee75dcfb145fefa40b43463"),
+    "bookName" : "Computer and Information Sciences: Advances in Computer Science 13th, 1998: International Conference Proceedings: 53 CSE (Concurrent Systems Engineering Series)",
+    "authorName" : "T. Dayar",
+    "bookPrice" : "7,580",
+    "noOfBookSoid" : 2,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5ee75df2b145fefa40b439ef"),
+    "bookName" : "Computer Graphics",
+    "authorName" : "S.Sharanya",
+    "bookPrice" : "300",
+    "noOfBookSoid" : 2,
+    "bookSoidYear" : 2019,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5ee76d46582e7363dcf524c3"),
+    "bookName" : "Testing Data importing",
+    "authorName" : "Reema Thareja",
+    "bookPrice" : "495",
+    "noOfBookSoid" : 1,
+    "bookSoidYear" : 2019,
+    "__v" : 0,
+    "noOfawards" : 4.0,
+    "publishyear" : 2020.0,
+    "birthDate" : 20101993.0
+}

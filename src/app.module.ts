@@ -5,7 +5,7 @@ import { BooksModule } from './books/books.module';
 import { MongooseModule } from '@nestjs/mongoose';
 
 @Module({
-  imports: [BooksModule, MongooseModule.forRoot('mongodb+srv://admin:<admin>@employees-sru2a.mongodb.net/Employees?retryWrites=true&w=majority')],
+  imports: [BooksModule, MongooseModule.forRoot('mongodb+srv://admin:7YaPbDRtNPcfBD3P@employees-sru2a.mongodb.net/Employees?retryWrites=true&w=majority')],
   controllers: [AppController],
   providers: [AppService],
 })
